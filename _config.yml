@@ -1,0 +1,86 @@
+typography_spectrum: 0.31888359436239716
+color:
+  brandStrength: 0.5314239161547347
+  lightness: 0.04374367844894307
+  saturation: 0.2880112362704655
+  rhythmicContrast: 0.9310134312969698
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+layout_spectrum: 0.6891197025630218
+author:
+  name: LG Larsen
+  email: lgsignd@gmail.com
+  url: 'https://thegrid.ai/ourfriends/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68c74d6f-f6fe-4cb8-9b08-98f9643e3246.jpg
+name: 'OurFriends '
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Sky
+    id: 1b88bec6-efc8-40d8-abe3-e9530d3a7548
+    type: content
+  - name: Water & Sky
+    id: 9380d6fa-10ee-42e7-a464-f8b86577ad8d
+    type: content
+  - name: Pets
+    id: c4efc5da-54d9-479f-b363-062235c793dd
+    type: content
+  - name: Landscape
+    id: 2df3cce8-d42c-4da3-bfd0-8b524ec432ab
+    type: content
+  - name: Places
+    id: 80a8e44a-0694-4a1c-9cf7-1302fe9d99ad
+    type: content
+  - name: Mii&LG&Dee
+    id: 6aaaacf3-5b93-4c56-908d-3c9385f67f30
+    type: content
+  - name: LGsamiCrafts
+    url: 'https://thegrid.ai/lgsamicrafts/'
+    type: external
+  - name: LGsignD
+    url: 'https://thegrid.ai/lgsignd/'
+    type: external
+  - name: Contact
+    id: 49c0257e-db9d-4978-9d29-24b3005c4524
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/675f818e-c3e5-466e-903a-e75b73d4e07a.jpg
+title: OurFriends
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0397bd98-6be6-4998-9f46-b3313304ab3c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0397bd98-6be6-4998-9f46-b3313304ab3c.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Life around us
+purpose: []
+github: true
