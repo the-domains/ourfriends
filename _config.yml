@@ -27,6 +27,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Videos
+    id: 5a9e3940-2b48-41c7-935a-f0771961a0d4
+    type: content
   - name: Sky
     id: 1b88bec6-efc8-40d8-abe3-e9530d3a7548
     type: content
@@ -41,9 +44,6 @@ navigation:
     type: content
   - name: Places
     id: 80a8e44a-0694-4a1c-9cf7-1302fe9d99ad
-    type: content
-  - name: Videos
-    id: 5a9e3940-2b48-41c7-935a-f0771961a0d4
     type: content
   - name: Mii&LG&Dee
     id: 6aaaacf3-5b93-4c56-908d-3c9385f67f30
