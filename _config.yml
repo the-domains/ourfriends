@@ -10,6 +10,7 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
+github: true
 layout_spectrum: 0.6891197025630218
 author:
   name: LG Larsen
@@ -53,6 +54,9 @@ navigation:
   - name: Contact
     id: 49c0257e-db9d-4978-9d29-24b3005c4524
     type: content
+  - name: Videos
+    id: 5a9e3940-2b48-41c7-935a-f0771961a0d4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/675f818e-c3e5-466e-903a-e75b73d4e07a.jpg
 title: OurFriends
@@ -65,22 +69,21 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/0397bd98-6be6-4998-9f46-b3313304ab3c.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Life around us
 purpose: []
-github: true
