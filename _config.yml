@@ -42,6 +42,9 @@ navigation:
   - name: Places
     id: 80a8e44a-0694-4a1c-9cf7-1302fe9d99ad
     type: content
+  - name: Videos
+    id: 5a9e3940-2b48-41c7-935a-f0771961a0d4
+    type: content
   - name: Mii&LG&Dee
     id: 6aaaacf3-5b93-4c56-908d-3c9385f67f30
     type: content
@@ -53,9 +56,6 @@ navigation:
     type: external
   - name: Contact
     id: 49c0257e-db9d-4978-9d29-24b3005c4524
-    type: content
-  - name: Videos
-    id: 5a9e3940-2b48-41c7-935a-f0771961a0d4
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/675f818e-c3e5-466e-903a-e75b73d4e07a.jpg
