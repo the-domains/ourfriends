@@ -86,4 +86,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Life around us
-purpose: []
+purpose:
+  - type: internal
+    label: VIDEOS
+    item: 5a9e3940-2b48-41c7-935a-f0771961a0d4
