@@ -4,9 +4,9 @@
         <description><![CDATA[OurFriends]]></description>
         <link>https://thegrid.ai/ourfriends/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 04 Nov 2017 20:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2017 20:20:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ourfriends/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Nov 2017 20:15:09 GMT</pubDate>
+        <pubDate>Sat, 04 Nov 2017 20:20:25 GMT</pubDate>
         <item>
             <title><![CDATA[Sky]]></title>
             <description><![CDATA[<h1>Sky</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3df158cf-6234-4af2-9142-8fa8e2e467b3.jpg">]]></description>
@@ -55,6 +55,13 @@
             <link>https://thegrid.ai/ourfriends/miiandlganddee/index.html</link>
             <guid isPermaLink="false">6aaaacf3-5b93-4c56-908d-3c9385f67f30</guid>
             <pubDate>Mon, 20 Mar 2017 22:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<h1><strong>Contact</strong></h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86e959fd-e3e8-4d23-a813-d8801b30c6d2.jpg">]]></description>
+            <link>https://thegrid.ai/ourfriends/contact/index.html</link>
+            <guid isPermaLink="false">50e32642-60da-4153-873b-ec625c75cd65</guid>
+            <pubDate>Sat, 04 Nov 2017 20:20:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact]]></title>
