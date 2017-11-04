@@ -36,6 +36,9 @@ navigation:
   - name: Water & Sky
     id: 9380d6fa-10ee-42e7-a464-f8b86577ad8d
     type: content
+  - name: Contact
+    id: 50e32642-60da-4153-873b-ec625c75cd65
+    type: content
   - name: Pets
     id: c4efc5da-54d9-479f-b363-062235c793dd
     type: content
@@ -44,9 +47,6 @@ navigation:
     type: content
   - name: Places
     id: 80a8e44a-0694-4a1c-9cf7-1302fe9d99ad
-    type: content
-  - name: Contact
-    id: 50e32642-60da-4153-873b-ec625c75cd65
     type: content
   - name: DeeMiiNovo
     id: 6aaaacf3-5b93-4c56-908d-3c9385f67f30
