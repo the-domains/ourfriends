@@ -54,9 +54,6 @@ navigation:
   - name: LGsignD & Dee
     url: 'https://thegrid.ai/lgsignd/'
     type: external
-  - name: Contact
-    id: 49c0257e-db9d-4978-9d29-24b3005c4524
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/675f818e-c3e5-466e-903a-e75b73d4e07a.jpg
 title: OurFriends
