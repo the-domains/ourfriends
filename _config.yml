@@ -58,7 +58,7 @@ navigation:
     url: 'https://thegrid.ai/lgsignd/'
     type: external
   - name: LG Larsen
-    url: 'https://thegrid.ai/lg-larsen/lg'
+    url: 'https://thegrid.ai/lg-larsen/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/675f818e-c3e5-466e-903a-e75b73d4e07a.jpg
