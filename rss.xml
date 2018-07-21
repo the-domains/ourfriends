@@ -4,9 +4,9 @@
         <description><![CDATA[OurFriends]]></description>
         <link>https://thegrid.ai/ourfriends/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Jul 2018 23:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jul 2018 23:57:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ourfriends/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Jul 2018 23:56:21 GMT</pubDate>
+        <pubDate>Sat, 21 Jul 2018 23:57:24 GMT</pubDate>
         <item>
             <title><![CDATA[Sky]]></title>
             <description><![CDATA[<h1>Sky</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3df158cf-6234-4af2-9142-8fa8e2e467b3.jpg">]]></description>
@@ -62,13 +62,6 @@
             <link>https://thegrid.ai/ourfriends/contact/index.html</link>
             <guid isPermaLink="false">50e32642-60da-4153-873b-ec625c75cd65</guid>
             <pubDate>Sat, 04 Nov 2017 20:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[—]]></title>
-            <description><![CDATA[<h3><strong>For Shopping click here and visit the Stores listed below</strong></h3>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6294d514-bec5-44b2-abc5-3cea165ae715.jpg">,<h1>—</h1>]]></description>
-            <link>https://thegrid.ai/ourfriends/shopmii/index.html</link>
-            <guid isPermaLink="false">7ca4f327-b4c5-4499-9360-70c9ba729bbb</guid>
-            <pubDate>Sat, 21 Jul 2018 22:43:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
