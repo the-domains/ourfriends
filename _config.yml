@@ -36,7 +36,7 @@ navigation:
   - name: Sky
     id: 1b88bec6-efc8-40d8-abe3-e9530d3a7548
     type: content
-  - name: Water & Sky
+  - name: 'Water '
     id: 9380d6fa-10ee-42e7-a464-f8b86577ad8d
     type: content
   - name: Pets
