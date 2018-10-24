@@ -17,7 +17,7 @@ author:
   email: deemiinovo@gmail.com
   url: 'https://thegrid.ai/ourfriends/'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/64124535-be79-424a-bee2-cd47bb7a0540.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3aa0c51d-e855-4b3b-b2e5-ffa163779068.jpg
 name: 'OurFriends '
 colors:
   brandColors:
@@ -61,7 +61,7 @@ navigation:
     url: 'https://thegrid.ai/lg-larsen/'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e9d71b-20a0-4a33-8293-c803b431ce23.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/341229b9-3d86-4b50-ab7e-ff4bd6a29e10.jpg
 title: OurFriends
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
