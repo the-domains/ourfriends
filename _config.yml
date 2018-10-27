@@ -57,7 +57,7 @@ navigation:
   - name: 'LGsignD :: home'
     url: 'https://thegrid.ai/lgsignd/'
     type: external
-  - name: LG Larsen
+  - name: 'LG :::: home'
     url: 'https://thegrid.ai/lg-larsen/'
     type: external
 favicon: >-
