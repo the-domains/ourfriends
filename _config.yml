@@ -51,7 +51,7 @@ navigation:
   - name: DeeMiiNovo
     id: 6aaaacf3-5b93-4c56-908d-3c9385f67f30
     type: content
-  - name: LGsamiCrafts & Mii
+  - name: 'LGsamiCrafts :: home'
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
   - name: LGsignD & Dee
