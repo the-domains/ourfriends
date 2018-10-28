@@ -4,22 +4,22 @@
         <description><![CDATA[OurFriends]]></description>
         <link>https://thegrid.ai/ourfriends/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Oct 2018 17:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Oct 2018 19:58:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ourfriends/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Oct 2018 17:56:01 GMT</pubDate>
-        <item>
-            <title><![CDATA[Sky]]></title>
-            <description><![CDATA[<h1>Sky</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3df158cf-6234-4af2-9142-8fa8e2e467b3.jpg">]]></description>
-            <link>https://thegrid.ai/ourfriends/sky/index.html</link>
-            <guid isPermaLink="false">1b88bec6-efc8-40d8-abe3-e9530d3a7548</guid>
-            <pubDate>Mon, 27 Feb 2017 18:50:02 GMT</pubDate>
-        </item>
+        <pubDate>Sun, 28 Oct 2018 19:57:59 GMT</pubDate>
         <item>
             <title><![CDATA[Water]]></title>
             <description><![CDATA[<h1>Water</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d398183d-27a4-4246-9aac-7755bd04dd7c.jpg">]]></description>
             <link>https://thegrid.ai/ourfriends/water-and-sky/index.html</link>
             <guid isPermaLink="false">9380d6fa-10ee-42e7-a464-f8b86577ad8d</guid>
             <pubDate>Mon, 27 Feb 2017 18:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sky]]></title>
+            <description><![CDATA[<h1>Sky</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3df158cf-6234-4af2-9142-8fa8e2e467b3.jpg">]]></description>
+            <link>https://thegrid.ai/ourfriends/sky/index.html</link>
+            <guid isPermaLink="false">1b88bec6-efc8-40d8-abe3-e9530d3a7548</guid>
+            <pubDate>Mon, 27 Feb 2017 18:50:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Landscape]]></title>
