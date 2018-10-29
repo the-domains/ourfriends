@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-29T15:12:23.261Z'
-datePublished: '2018-10-29T15:12:26.822Z'
+dateModified: '2018-10-29T15:16:35.114Z'
+datePublished: '2018-10-29T15:16:38.192Z'
 title: Landscape
 author: []
 publisher: {}
@@ -45,12 +45,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4e5ad4e-0b91-4c31-891e-8d95351afd9e.jpg)
 
 # ---
-
-# ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d0afef8-975b-4cde-b278-60a908287130.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d199d88a-8bbe-415f-bf9c-4e0d80e9cdc2.jpg)
-
-# ---
 
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/126c245e-251d-416e-b513-773ebae6e70e.jpg)
@@ -61,12 +57,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc2501aa-7786-4ed7-bc4c-e02c44f3377a.jpg)
 
 # ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62c019ca-b613-4e77-807f-77626afe706b.jpg)
-
-# ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e775fd61-5eb9-4a40-ae3f-a9f1db531531.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/63fe02d9-bf33-47fb-bfea-6c2ad4ef873b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5be88a98-f7a2-4c95-a473-eb76145a6cbe.jpg)
 
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dbc79da-1bb7-4091-9179-f3598be89b0f.jpg)
