@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-29T17:54:02.593Z'
-datePublished: '2018-10-29T17:54:08.946Z'
+dateModified: '2018-10-29T17:54:39.015Z'
+datePublished: '2018-10-29T17:54:41.858Z'
 title: Landscape
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 ---
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e06bedf-c662-4986-82e0-3ef263a27162.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b192016a-246a-4ac0-a824-926ae0bd6fe6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ec94193-a3e5-4a47-ad53-27107f054aff.jpg)
 
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/178bf8c0-ad42-421c-8f38-28dcacf49311.jpg)
@@ -137,7 +137,6 @@ _type: Article
 [back to top][0]
 
 ..
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ec94193-a3e5-4a47-ad53-27107f054aff.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40b18353-8c56-47be-b7e4-c684c3f9be39.jpg)
 
 [0]: https://thegrid.ai/ourfriends/landscape/
