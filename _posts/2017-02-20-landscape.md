@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-29T15:55:04.970Z'
-datePublished: '2018-10-29T15:55:08.802Z'
+dateModified: '2018-10-29T15:55:17.034Z'
+datePublished: '2018-10-29T15:55:30.915Z'
 title: Landscape
 author: []
 publisher: {}
@@ -102,8 +102,6 @@ _type: Article
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f56141b-35f2-48e7-bb97-b14e54e12fe9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fe42609-2af3-4b01-9283-162a85e22e3c.jpg)
-
-# ---
 
 # ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/068bc868-4583-4bba-a407-1fba88dd1deb.jpg)
