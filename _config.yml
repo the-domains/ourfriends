@@ -36,14 +36,14 @@ navigation:
   - name: Sky
     id: 1b88bec6-efc8-40d8-abe3-e9530d3a7548
     type: content
+  - name: 'Water '
+    id: 9380d6fa-10ee-42e7-a464-f8b86577ad8d
+    type: content
   - name: Landscape
     id: 2df3cce8-d42c-4da3-bfd0-8b524ec432ab
     type: content
   - name: Places
     id: 80a8e44a-0694-4a1c-9cf7-1302fe9d99ad
-    type: content
-  - name: 'Water '
-    id: 9380d6fa-10ee-42e7-a464-f8b86577ad8d
     type: content
   - name: Pets
     id: c4efc5da-54d9-479f-b363-062235c793dd
