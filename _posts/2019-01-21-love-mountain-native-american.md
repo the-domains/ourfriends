@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Beautifull song hope you enjoy this film of the artists,Native Peruvian Music'
-dateModified: '2019-01-21T19:58:46.488Z'
-datePublished: '2019-01-21T19:58:47.431Z'
+dateModified: '2019-01-21T19:59:01.464Z'
+datePublished: '2019-01-21T19:59:02.273Z'
 title: Love Mountain- Native American
 author:
   - name: helen1434
@@ -15,9 +15,9 @@ publisher:
   domain: www.youtube.com
 via: {}
 isBasedOnUrl: 'https://www.youtube.com/watch?v=R2CE9Mzxnnw'
+sourcePath: _posts/2019-01-21-love-mountain-native-american.md
 starred: false
 datePublishedOriginal: '2019-01-21T19:58:47.431Z'
-sourcePath: _posts/2019-01-21-love-mountain-native-american.md
 _type: MediaObject
 
 ---
